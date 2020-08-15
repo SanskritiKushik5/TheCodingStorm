@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/techblogsk",
+    "prod_uri": "mysql+pymysql://root:@localhost/techblogsk",
+    "fb_url": "https://facebook.com/TheCodingStorm",
+    "tw_url": "https://twitter.com/TheCodingStorm",
+    "gh_url": "https://github.com/TheCodingStorm",
+    "gmail-user": "email@gmail.com",
+    "gmail-password": "password",
+    "about_text": "Hi!!! My name is Sanskriti Kushik. I am currently pursuing B.Tech in Mumbai. LEARNING EVERYDAY!",
+    "no_of_posts": 2,
+    "login_image": "login_image.svg",
+    "admin_user": "Sanskriti",
+    "admin_password": "skisgreat",
+    "upload_location": "C:\\Users"
+  }
+
+}
